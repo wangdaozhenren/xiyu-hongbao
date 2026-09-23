@@ -1,4 +1,4 @@
-﻿---
+---
 name: xiyu-hongbao
 slug: xiyu-hongbao
 displayName: 洗浴按摩红包助手
